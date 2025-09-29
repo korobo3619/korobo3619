@@ -1,16 +1,13 @@
-## Hi there 👋
+## Introduce
+영남대학교 컴퓨터학부 2학년 재학중
 
-<!--
-**korobo3619/korobo3619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill
+  ![C](https://img.shields.io/badge/c-F2CB61?style=for-the-badge&logo=c&logoColor=white)
 
-Here are some ideas to get you started:
+## Workplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)  
+ ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)  
