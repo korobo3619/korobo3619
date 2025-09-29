@@ -3,6 +3,7 @@
 
 ## Skill
   ![C](https://img.shields.io/badge/c-F2CB61?style=for-the-badge&logo=c&logoColor=white)
+  ![C](https://img.shields.io/badge/c#-F2CB61?style=for-the-badge&logo=c&logoColor=white)
 
 ## Workplace
 
